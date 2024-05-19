@@ -17,6 +17,7 @@ h1, p{
 	font-style: normal;
 }
 
+/* my web portfolio profile picture */
 #profile{
 	height: 250px;
 	width: 250px;
@@ -49,7 +50,9 @@ footer{
 /* Modifies the font-size, color, and margin of the icons	*/
 	font-size: 25px; 
 	color: white;
-	margin: 0 10px 0 10px;  /* Modifies margin left and margin right*/
+	/* margin: 0 10px 0 10px;  */ /* Modifies margin left and margin right*/
+	margin-left: 10px;
+	margin-right: 10px;
 }
 
 
